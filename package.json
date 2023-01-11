@@ -1,6 +1,7 @@
 {
   "name": "watergit",
   "version": "1.0.0",
+  "homepage": "https://yuehaoshi.github.io/WaterGit",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,7 +25,6 @@
     "express": "^4.17.3",
     "express-mongo-sanitize": "^2.2.0",
     "express-session": "^1.17.2",
-    "gh-pages": "^3.2.3",
     "helmet": "^5.0.2",
     "joi": "^17.6.0",
     "method-override": "^3.0.0",
@@ -37,5 +37,8 @@
     "react-scripts": "^5.0.1",
     "react-tsparticles": "^2.0.6",
     "sanitize-html": "^2.7.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
